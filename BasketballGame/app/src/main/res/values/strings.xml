@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BasketballGame</string>
+    <string name="textview">TextView</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="B_1">+1</string>
+    <string name="A_2">+2</string>
+    <string name="A_3">+3</string>
+    <string name="textviewA">TextView</string>
+    <string name="B_3">+3</string>
+    <string name="B_2">+2</string>
+    <string name="A_1">+1</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
