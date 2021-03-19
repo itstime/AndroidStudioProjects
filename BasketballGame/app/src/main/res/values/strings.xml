@@ -6,10 +6,11 @@
     <string name="B_1">+1</string>
     <string name="A_2">+2</string>
     <string name="A_3">+3</string>
-    <string name="textviewA">TextView</string>
+    <string name="textviewA">0</string>
     <string name="B_3">+3</string>
     <string name="B_2">+2</string>
     <string name="A_1">+1</string>
-    <string name="todo">TODO</string>
-    <string name="todo">TODO</string>
+    <string name="redo">redo</string>
+    <string name="reset">reset</string>
+    <string name="TextViewB">0</string>
 </resources>
