@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">篮球比赛</string>
+    <string name="textview">文本</string>
+    <string name="redo">撤销</string>
+    <string name="reset">重置</string>
+</resources>
